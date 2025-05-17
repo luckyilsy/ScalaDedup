@@ -24,9 +24,7 @@ make
 ```
 
 - Initial upload
-
-  ![image-20250518000818541](C:\Users\lllucky\AppData\Roaming\Typora\typora-user-images\image-20250518000818541.png)
-
+![image](https://github.com/user-attachments/assets/36a41143-f025-44ec-9147-88fa21ee4d91)
 - Subsequent upload
+![Uploading image.png…]()
 
-![image-20250518000931075](C:\Users\lllucky\AppData\Roaming\Typora\typora-user-images\image-20250518000931075.png)
